@@ -10,7 +10,7 @@ void swap(int *a,int *b){
 int main() {
     int T,i;
     scanf("%d",&T);
-    for(i=0;i<T;i++){
+     for(i=0;i<T;i++){
         int n,j;
         scanf("%d",&n);
         int a[n],k;
