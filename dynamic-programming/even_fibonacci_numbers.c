@@ -7,11 +7,12 @@ int main(){
         
         int e;
         scanf("%d",&e);
-        fib_no(e);  
-        
+        fib_no(e);
+  
         if (T != 0){
             printf("\n");
         }
+        
     }
 }    
 
